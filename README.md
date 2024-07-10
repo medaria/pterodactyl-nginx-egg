@@ -1,3 +1,6 @@
+# The Nginx egg, will be revised and adapted by me, so that it is also possible to run Nextcloud and co with it ( Planka, Nextcloud, etc )
+
+
 
 # Pterodactyl Nginx egg
 
